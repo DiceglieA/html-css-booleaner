@@ -4,6 +4,10 @@ header {
     background-size: 20%;
 }
 
+section h1{
+    font-size: xx-large;
+    
+}
 header img {
     width: 20%;
 }
@@ -12,10 +16,17 @@ section div{
     color: grey;
 }
 
+.sottotitolo {
+    color: black;
+}
+
 .booleam {
     color: #7AB7FF;
 }
 
+.evideziatore{
+    background-color: yellow;
+}
 thead {
     background-color: #066ce0;
     color: white;
@@ -31,7 +42,10 @@ td {
 }
 
 
-
+footer {
+    color: grey;
+    font-weight: bold;
+}
 
 
 .monitor {
@@ -41,6 +55,7 @@ td {
     background-repeat: no-repeat;
     color: white;
     font-weight: bold;
+    font-size: x-large;
 }
 .graphic {
     background-image: url('../img/graph.jpg');
@@ -49,5 +64,6 @@ td {
     background-repeat: no-repeat;
     color: white;
     font-weight: bold;
+    font-size: x-large;
 
 }
