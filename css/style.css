@@ -8,6 +8,14 @@ header img {
     width: 20%;
 }
 
+section div{
+    color: grey;
+}
+
+.booleam {
+    color: #7AB7FF;
+}
+
 thead {
     background-color: #066ce0;
     color: white;
