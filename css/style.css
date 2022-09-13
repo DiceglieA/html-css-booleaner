@@ -24,7 +24,7 @@ section div{
     color: #7AB7FF;
 }
 
-.evideziatore{
+.evidenziatore{
     background-color: yellow;
 }
 thead {
@@ -37,8 +37,9 @@ td {
     width: 25%;
 
 }
-.class {
-    column-span: 2;
+
+.blu {
+    background-color: #7AB7FF;
 }
 
 
