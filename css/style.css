@@ -30,9 +30,13 @@ section div{
 thead {
     background-color: #066ce0;
     color: white;
+    text-align: left;
     
 }
 
+#doppia {
+    width: 50%;
+}
 td {
     width: 25%;
 
